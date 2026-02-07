@@ -1,0 +1,73 @@
+# ======================
+# MKDOCS SPECIFIC
+# ======================
+site/                  # Default MkDocs build output directory
+.mypy_cache/           # Type checker cache (if used)
+.cache/                # MkDocs plugin caches (e.g., mkdocs-material)
+
+# ======================
+# PYTHON
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+.venv              # Common virtual environment names
+pyvenv.cfg
+pip-selfcheck.json
+
+# ======================
+# MACOS SYSTEM FILES
+# ======================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.apdisk
+
+# ======================
+# ENVIRONMENT & SECRETS
+# ======================
+.env
+.env.local
+.env.*.local
+*.key
+secrets.yaml
+credentials.json
+
+# ======================
+# EDITOR/IDE (COMMON)
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
