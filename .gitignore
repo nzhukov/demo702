@@ -1,7 +1,7 @@
 # ======================
 # MKDOCS SPECIFIC
 # ======================
-site/                  # Default MkDocs build output directory
+# src/                  # Default MkDocs build output directory
 .mypy_cache/           # Type checker cache (if used)
 .cache/                # MkDocs plugin caches (e.g., mkdocs-material)
 
