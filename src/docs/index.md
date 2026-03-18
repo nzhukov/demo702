@@ -1,7 +1,7 @@
 # Welcome to MkDocs
 
-## Доброе утро, дорогие студенты! 
-Сегодня 13 марта 2026 года
+## Добрый день, дорогие студенты! 
+Сегодня 18 марта 2026 года
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
