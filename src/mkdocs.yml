@@ -1,1 +1,4 @@
-site_name: Сайт для группы PЗ121
+site_name: Сайт для группы PЗ124
+
+theme:
+  name: mkdocs
